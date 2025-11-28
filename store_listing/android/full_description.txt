@@ -1,0 +1,11 @@
+Experience urban mobility with Flytt by Weego. Book rides in seconds, track your driver live, and pay seamlessly. Enjoy smart pricing, trusted contacts, and safety features designed for you. Available in multiple countries and languages.
+
+Key features:
+- Quick ride requests with accurate ETAs
+- Live driver tracking and in-app messaging
+- Multiple payment methods: card, wallet, cash
+- Safety: trusted contacts and trip sharing
+- Rider subscriptions with savings
+- Electric scooters and bikes in supported cities
+
+Note: Continued use of GPS running in the background can decrease battery life. 

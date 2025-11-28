@@ -1,0 +1,1 @@
+Flytt by Flytt Inc is your smart mobility companion. Request a ride, share your trip with trusted contacts, and get to your destination safely. Background location is used to improve pickup accuracy and ETAs. Permissions are only requested when needed. 
